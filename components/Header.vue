@@ -27,7 +27,8 @@
                 <li class="group">
                   <NuxtLink to="#project" class="font-semibold mx-8 flex py-2 text-sm text-secondary group-hover:text-primary group-hover:underline"> Project </NuxtLink>
                 </li>
-
+                   <li class="group">
+                  <NuxtLink to="#clients" class="font-semibold mx-8 flex py-2 text-sm text-secondary group-hover:text-primary group-hover:underline"> Clients </NuxtLink>
                 <li class="group">
                   <NuxtLink to="#blog" class="font-semibold mx-8 flex py-2 text-sm text-secondary group-hover:text-primary group-hover:underline"> Blog </NuxtLink>
                 </li>
